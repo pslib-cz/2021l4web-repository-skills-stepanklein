@@ -3,7 +3,7 @@ Obsahuje zatím:
 * Ahoj světe
 * Základ designu
 
-[info](/info.html)
+[info](https://pslib-cz.github.io/2021l4web-repository-skills-stepanklein/info.html)
 
 **změna** | **popis**
 --------- | ---------
