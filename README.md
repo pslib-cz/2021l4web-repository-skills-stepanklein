@@ -2,7 +2,7 @@
 Obsahuje zatím:
 * Ahoj světe
 * Základ designu
-``
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,4 +15,4 @@ Obsahuje zatím:
     <h1>Ahoj světe</h1>
 </body>
 </html>
-``
+```
