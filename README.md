@@ -2,6 +2,14 @@
 Obsahuje zatím:
 * Ahoj světe
 * Základ designu
+
+[info](/info.html)
+
+**změna** | **popis**
+--------- | ---------
+16.9.21 | vytvořeno
+17.9.21 | přidano info
+
 ```
 <!DOCTYPE html>
 <html lang="en">
